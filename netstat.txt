@@ -1,0 +1,503 @@
+激活Internet连接 (w/o 服务器)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0     52 wingtech.local:ssh      192.168.3.1:57950       ESTABLISHED
+tcp        0      0 wingtech.local:ssh      192.168.3.1:49968       ESTABLISHED
+tcp        0      0 wingtech.local:ssh      192.168.3.1:58895       ESTABLISHED
+tcp        0      0 wingtech.local:ssh      192.168.3.1:59451       ESTABLISHED
+tcp        1      0 wingtech.local:42836    mistletoe.canonica:http CLOSE_WAIT 
+tcp        0      0 wingtech.local:ssh      192.168.3.1:49970       ESTABLISHED
+活跃的UNIX域套接字 (w/o 服务器)
+Proto RefCnt Flags       Type       State         I-Node   路径
+unix  22     [ ]         数据报                8746     /dev/log
+unix  2      [ ]         数据报                13965    
+unix  3      [ ]         流        已连接     12271    
+unix  3      [ ]         流        已连接     14468    @/tmp/dbus-kNcVKdAaVr
+unix  3      [ ]         流        已连接     13722    @/dbus-vfs-daemon/socket-fov4K5RV
+unix  3      [ ]         流        已连接     13539    
+unix  3      [ ]         流        已连接     22842    
+unix  3      [ ]         流        已连接     17649    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12032    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12238    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     2952     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     13818    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12118    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     3062     
+unix  3      [ ]         流        已连接     13642    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     912      
+unix  3      [ ]         流        已连接     15580    
+unix  3      [ ]         流        已连接     869      @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     10573    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     13782    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     16453    
+unix  3      [ ]         流        已连接     14525    
+unix  3      [ ]         流        已连接     13196    
+unix  3      [ ]         流        已连接     15537    @/tmp/.ICE-unix/2415
+unix  3      [ ]         流        已连接     12013    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     12087    
+unix  3      [ ]         流        已连接     14758    
+unix  3      [ ]         流        已连接     3012     @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     17502    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     3067     @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16495    /home/heshuxiong/.pulse/ccbdfa2da80aba0131d1a20900000011-runtime/native
+unix  3      [ ]         流        已连接     14748    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13846    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16528    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16491    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12230    
+unix  3      [ ]         流        已连接     11642    /var/run/acpid.socket
+unix  3      [ ]         流        已连接     12219    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     2874     @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     12094    
+unix  3      [ ]         流        已连接     1013     
+unix  2      [ ]         数据报                2765     
+unix  3      [ ]         流        已连接     2945     @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     557      
+unix  3      [ ]         流        已连接     8786     
+unix  3      [ ]         流        已连接     13575    
+unix  3      [ ]         流        已连接     16497    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15478    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14693    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     11662    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     12257    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14906    
+unix  3      [ ]         流        已连接     15608    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13783    @/dbus-vfs-daemon/socket-GryxlpuT
+unix  3      [ ]         流        已连接     13733    
+unix  3      [ ]         流        已连接     8799     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     1842     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     17417    
+unix  3      [ ]         流        已连接     15616    
+unix  3      [ ]         流        已连接     16418    
+unix  3      [ ]         流        已连接     14584    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14477    
+unix  3      [ ]         流        已连接     13757    
+unix  3      [ ]         流        已连接     15378    
+unix  3      [ ]         流        已连接     11222    @/tmp/dbus-jY5QSgEP
+unix  3      [ ]         流        已连接     13791    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12150    
+unix  3      [ ]         流        已连接     14729    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15574    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12012    
+unix  3      [ ]         流        已连接     24491    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     13798    
+unix  3      [ ]         流        已连接     3035     
+unix  3      [ ]         流        已连接     16469    @/dbus-vfs-daemon/socket-TeqaGdCY
+unix  3      [ ]         流        已连接     15422    
+unix  2      [ ]         数据报                1015     
+unix  2      [ ]         流        已连接     31862    
+unix  2      [ ]         数据报                16794    
+unix  3      [ ]         流        已连接     13903    
+unix  3      [ ]         流        已连接     14772    
+unix  3      [ ]         流        已连接     13806    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14363    @/tmp/dbus-kNcVKdAaVr
+unix  3      [ ]         流        已连接     16462    
+unix  3      [ ]         流        已连接     2963     @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     14344    
+unix  3      [ ]         流        已连接     12076    
+unix  3      [ ]         流        已连接     15602    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     12149    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     18458    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15598    
+unix  3      [ ]         流        已连接     2947     
+unix  3      [ ]         流        已连接     17414    
+unix  3      [ ]         流        已连接     886      @/tmp/dbus-jY5QSgEP
+unix  3      [ ]         流        已连接     13548    
+unix  3      [ ]         流        已连接     232      
+unix  3      [ ]         流        已连接     18503    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     14314    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     13831    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     11231    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     16466    
+unix  2      [ ]         数据报                13594    
+unix  3      [ ]         流        已连接     18640    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15693    
+unix  3      [ ]         流        已连接     14687    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     3040     
+unix  3      [ ]         流        已连接     18508    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13850    
+unix  3      [ ]         流        已连接     3060     @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     940      
+unix  3      [ ]         流        已连接     13570    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     2878     
+unix  3      [ ]         流        已连接     8476     @/com/ubuntu/upstart
+unix  3      [ ]         流        已连接     14722    
+unix  3      [ ]         流        已连接     15601    
+unix  3      [ ]         流        已连接     16448    
+unix  3      [ ]         流        已连接     11456    
+unix  3      [ ]         流        已连接     18462    
+unix  3      [ ]         流        已连接     1020     
+unix  3      [ ]         流        已连接     757      /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14677    
+unix  3      [ ]         流        已连接     907      
+unix  3      [ ]         流        已连接     12024    
+unix  3      [ ]         流        已连接     872      
+unix  3      [ ]         流        已连接     18795    
+unix  3      [ ]         流        已连接     15568    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13661    
+unix  2      [ ]         数据报                2543     
+unix  3      [ ]         流        已连接     14932    
+unix  3      [ ]         流        已连接     13540    
+unix  3      [ ]         流        已连接     16419    
+unix  3      [ ]         流        已连接     14451    
+unix  3      [ ]         流        已连接     2502     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14662    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12218    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     13662    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     2953     @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16410    
+unix  3      [ ]         流        已连接     902      @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     3043     
+unix  3      [ ]         流        已连接     12260    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13541    @/tmp/dbus-kNcVKdAaVr
+unix  3      [ ]         流        已连接     12241    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14648    
+unix  3      [ ]         流        已连接     12246    
+unix  3      [ ]         流        已连接     3033     
+unix  2      [ ]         数据报                1022     
+unix  3      [ ]         流        已连接     16539    
+unix  3      [ ]         流        已连接     8759     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     26519    
+unix  3      [ ]         流        已连接     17504    
+unix  3      [ ]         流        已连接     14810    
+unix  3      [ ]         流        已连接     13792    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16459    
+unix  3      [ ]         流        已连接     13958    
+unix  3      [ ]         流        已连接     13797    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13163    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14688    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     14683    
+unix  3      [ ]         流        已连接     14739    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12194    
+unix  3      [ ]         流        已连接     11131    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14663    
+unix  3      [ ]         流        已连接     14553    
+unix  3      [ ]         流        已连接     12091    
+unix  3      [ ]         流        已连接     12015    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     16532    
+unix  3      [ ]         流        已连接     14481    @/tmp/dbus-kNcVKdAaVr
+unix  3      [ ]         流        已连接     13875    
+unix  3      [ ]         流        已连接     883      
+unix  3      [ ]         流        已连接     8787     
+unix  3      [ ]         流        已连接     21236    
+unix  3      [ ]         流        已连接     16544    
+unix  3      [ ]         流        已连接     13809    
+unix  3      [ ]         流        已连接     14632    
+unix  3      [ ]         流        已连接     13569    
+unix  3      [ ]         流        已连接     17409    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     18461    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     988      
+unix  3      [ ]         流        已连接     901      @/tmp/dbus-WZU1Iy5Ele
+unix  2      [ ]         数据报                22841    
+unix  3      [ ]         流        已连接     14723    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14863    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     2951     
+unix  3      [ ]         流        已连接     14550    
+unix  3      [ ]         流        已连接     15622    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13600    @/tmp/dbus-kNcVKdAaVr
+unix  3      [ ]         流        已连接     18453    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12278    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14658    
+unix  2      [ ]         数据报                11461    
+unix  3      [ ]         流        已连接     12225    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     814      
+unix  3      [ ]         流        已连接     11587    
+unix  3      [ ]         流        已连接     10502    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14649    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     12085    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     11130    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     13906    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12079    
+unix  3      [ ]         流        已连接     12026    @/tmp/dbus-jY5QSgEP
+unix  2      [ ]         数据报                16978    
+unix  3      [ ]         流        已连接     2887     @/tmp/.X11-unix/X0
+unix  2      [ ]         数据报                8784     
+unix  3      [ ]         流        已连接     16473    @/tmp/dbus-jY5QSgEP
+unix  3      [ ]         流        已连接     12063    @/tmp/dbus-jY5QSgEP
+unix  3      [ ]         流        已连接     18505    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15603    
+unix  3      [ ]         流        已连接     3042     
+unix  3      [ ]         流        已连接     14652    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     23781    
+unix  3      [ ]         流        已连接     13805    
+unix  3      [ ]         流        已连接     13651    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     2946     
+unix  3      [ ]         流        已连接     13641    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     8766     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14728    
+unix  3      [ ]         流        已连接     18529    
+unix  3      [ ]         流        已连接     2981     
+unix  3      [ ]         流        已连接     14587    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14478    @/tmp/dbus-kNcVKdAaVr
+unix  3      [ ]         流        已连接     15688    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     17444    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13756    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     12072    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15625    
+unix  3      [ ]         流        已连接     15481    @/dbus-vfs-daemon/socket-a2ZR90rA
+unix  2      [ ]         数据报                11772    
+unix  3      [ ]         流        已连接     2629     
+unix  3      [ ]         流        已连接     13935    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16553    
+unix  3      [ ]         流        已连接     11228    
+unix  3      [ ]         流        已连接     13811    
+unix  3      [ ]         流        已连接     14586    
+unix  3      [ ]         流        已连接     2767     
+unix  3      [ ]         流        已连接     14656    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16442    
+unix  3      [ ]         流        已连接     10975    
+unix  3      [ ]         流        已连接     12066    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     3066     
+unix  3      [ ]         流        已连接     12242    
+unix  2      [ ]         数据报                416      
+unix  3      [ ]         流        已连接     15420    
+unix  3      [ ]         流        已连接     16452    
+unix  3      [ ]         流        已连接     14590    @/tmp/dbus-WZU1Iy5Ele
+unix  2      [ ]         数据报                8764     
+unix  3      [ ]         流        已连接     12117    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14588    
+unix  3      [ ]         流        已连接     2935     
+unix  3      [ ]         流        已连接     15623    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13755    
+unix  3      [ ]         流        已连接     15539    
+unix  3      [ ]         流        已连接     12189    @/tmp/dbus-jY5QSgEP
+unix  3      [ ]         流        已连接     934      /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     15417    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     16475    
+unix  3      [ ]         流        已连接     11226    
+unix  3      [ ]         流        已连接     14679    
+unix  3      [ ]         流        已连接     15224    
+unix  3      [ ]         流        已连接     13966    
+unix  3      [ ]         流        已连接     16568    
+unix  3      [ ]         流        已连接     17419    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12252    
+unix  3      [ ]         流        已连接     1016     
+unix  3      [ ]         流        已连接     11462    
+unix  3      [ ]         流        已连接     18456    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     22776    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     13936    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     18459    
+unix  3      [ ]         流        已连接     3065     
+unix  3      [ ]         流        已连接     13735    
+unix  3      [ ]         流        已连接     14552    
+unix  3      [ ]         流        已连接     2934     
+unix  3      [ ]         流        已连接     12073    
+unix  3      [ ]         流        已连接     15381    
+unix  3      [ ]         流        已连接     895      
+unix  3      [ ]         流        已连接     13550    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14345    @/tmp/dbus-kNcVKdAaVr
+unix  3      [ ]         流        已连接     13689    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     1474     @/com/ubuntu/upstart
+unix  3      [ ]         流        已连接     17549    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     11223    
+unix  2      [ ]         数据报                14754    
+unix  3      [ ]         流        已连接     2944     @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13595    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     16615    
+unix  3      [ ]         流        已连接     821      /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     13195    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     15609    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13784    @/dbus-vfs-daemon/socket-JdOk1sO5
+unix  3      [ ]         流        已连接     17416    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     813      
+unix  3      [ ]         流        已连接     3034     @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13723    @/dbus-vfs-daemon/socket-wpIBQIpm
+unix  3      [ ]         流        已连接     11928    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     15631    
+unix  3      [ ]         流        已连接     14609    
+unix  3      [ ]         流        已连接     2898     @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15565    @/tmp/.ICE-unix/2415
+unix  3      [ ]         流        已连接     12263    /tmp/keyring-uJUkwh/pkcs11
+unix  3      [ ]         流        已连接     14484    
+unix  3      [ ]         流        已连接     13568    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     11470    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     10496    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     12086    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     10482    
+unix  3      [ ]         流        已连接     14675    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15538    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13645    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     16678    
+unix  3      [ ]         流        已连接     13835    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16560    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13832    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13808    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16470    @/dbus-vfs-daemon/socket-mLLRIQ6D
+unix  3      [ ]         流        已连接     15019    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     2562     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14747    
+unix  3      [ ]         流        已连接     14528    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12035    
+unix  3      [ ]         流        已连接     15581    
+unix  3      [ ]         流        已连接     11224    
+unix  3      [ ]         流        已连接     12277    
+unix  3      [ ]         流        已连接     14614    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14476    
+unix  3      [ ]         流        已连接     1655     
+unix  3      [ ]         流        已连接     14485    @/tmp/.ICE-unix/2415
+unix  3      [ ]         流        已连接     2896     
+unix  3      [ ]         流        已连接     16518    
+unix  3      [ ]         流        已连接     15364    
+unix  3      [ ]         流        已连接     16488    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14673    
+unix  3      [ ]         流        已连接     16451    @/dbus-vfs-daemon/socket-ovDARV92
+unix  3      [ ]         流        已连接     12089    
+unix  3      [ ]         流        已连接     15415    /home/heshuxiong/.pulse/ccbdfa2da80aba0131d1a20900000011-runtime/native
+unix  3      [ ]         流        已连接     11471    
+unix  3      [ ]         流        已连接     12261    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     16461    
+unix  2      [ ]         数据报                442      
+unix  3      [ ]         流        已连接     14749    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15632    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14526    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     13549    
+unix  3      [ ]         流        已连接     15570    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     11457    
+unix  3      [ ]         流        已连接     14905    
+unix  3      [ ]         流        已连接     14674    
+unix  3      [ ]         流        已连接     11012    
+unix  3      [ ]         流        已连接     15405    
+unix  3      [ ]         流        已连接     16496    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13781    
+unix  3      [ ]         流        已连接     13736    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15416    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14466    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     13123    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     15434    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12078    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12018    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14362    
+unix  3      [ ]         流        已连接     3005     
+unix  3      [ ]         流        已连接     12147    
+unix  3      [ ]         流        已连接     21237    
+unix  3      [ ]         流        已连接     15675    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     15435    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     938      
+unix  3      [ ]         流        已连接     13691    
+unix  2      [ ]         数据报                20181    
+unix  3      [ ]         流        已连接     12276    
+unix  3      [ ]         流        已连接     3039     @/tmp/.X11-unix/X0
+unix  2      [ ]         流        已连接     815      
+unix  3      [ ]         流        已连接     14931    
+unix  3      [ ]         流        已连接     2931     @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14548    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     419      
+unix  3      [ ]         流        已连接     12233    
+unix  3      [ ]         流        已连接     10501    
+unix  3      [ ]         流        已连接     8792     
+unix  3      [ ]         流        已连接     15586    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14579    
+unix  3      [ ]         流        已连接     2804     
+unix  3      [ ]         流        已连接     15424    
+unix  3      [ ]         流        已连接     11227    
+unix  3      [ ]         流        已连接     15628    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     12037    
+unix  3      [ ]         数据报                8511     
+unix  3      [ ]         流        已连接     12148    
+unix  3      [ ]         流        已连接     13796    
+unix  3      [ ]         流        已连接     868      
+unix  3      [ ]         流        已连接     13659    
+unix  3      [ ]         流        已连接     15423    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13887    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     18443    
+unix  3      [ ]         流        已连接     13836    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     14450    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     8800     
+unix  3      [ ]         流        已连接     16540    
+unix  3      [ ]         流        已连接     13732    
+unix  3      [ ]         流        已连接     15421    
+unix  3      [ ]         流        已连接     8793     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     14016    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16449    @/dbus-vfs-daemon/socket-C69fYaQa
+unix  3      [ ]         流        已连接     14471    
+unix  3      [ ]         流        已连接     14465    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     18545    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     13639    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     2895     
+unix  3      [ ]         流        已连接     15379    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     23782    
+unix  3      [ ]         流        已连接     16795    
+unix  3      [ ]         流        已连接     2396     
+unix  3      [ ]         流        已连接     14809    
+unix  3      [ ]         流        已连接     1010     
+unix  3      [ ]         流        已连接     3013     @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     11502    
+unix  3      [ ]         流        已连接     13839    
+unix  3      [ ]         流        已连接     12253    
+unix  3      [ ]         流        已连接     14631    
+unix  3      [ ]         流        已连接     12064    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     13485    
+unix  2      [ ]         数据报                10497    
+unix  3      [ ]         流        已连接     16460    
+unix  3      [ ]         流        已连接     12067    
+unix  3      [ ]         流        已连接     13810    
+unix  3      [ ]         流        已连接     14664    
+unix  3      [ ]         流        已连接     3061     
+unix  3      [ ]         流        已连接     15431    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     13601    @/tmp/dbus-kNcVKdAaVr
+unix  3      [ ]         流        已连接     2936     
+unix  3      [ ]         流        已连接     16537    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16547    
+unix  3      [ ]         流        已连接     15505    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     8765     
+unix  2      [ ]         数据报                2518     
+unix  3      [ ]         流        已连接     13826    
+unix  3      [ ]         流        已连接     978      
+unix  3      [ ]         流        已连接     17477    
+unix  3      [ ]         流        已连接     13692    
+unix  3      [ ]         流        已连接     14610    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     12030    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     13807    
+unix  3      [ ]         流        已连接     20235    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     12190    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     15577    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     2949     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     2948     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     13619    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     979      /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     18463    
+unix  3      [ ]         流        已连接     15593    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16388    
+unix  3      [ ]         流        已连接     18796    
+unix  3      [ ]         流        已连接     13886    
+unix  3      [ ]         流        已连接     15225    
+unix  3      [ ]         流        已连接     13743    @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     13666    
+unix  3      [ ]         流        已连接     12270    
+unix  3      [ ]         流        已连接     13876    
+unix  3      [ ]         流        已连接     17415    
+unix  3      [ ]         流        已连接     14650    
+unix  3      [ ]         流        已连接     876      @/tmp/.X11-unix/X0
+unix  3      [ ]         流        已连接     16979    
+unix  3      [ ]         流        已连接     15642    /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     16450    
+unix  3      [ ]         流        已连接     14615    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14743    
+unix  3      [ ]         流        已连接     15413    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     889      
+unix  3      [ ]         流        已连接     383      /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     15433    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15414    
+unix  3      [ ]         流        已连接     14686    
+unix  3      [ ]         流        已连接     15425    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     11233    
+unix  3      [ ]         流        已连接     2639     /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     1642     
+unix  2      [ ]         数据报                8838     
+unix  3      [ ]         流        已连接     3044     
+unix  3      [ ]         流        已连接     894      @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15630    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     15592    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     672      /var/run/dbus/system_bus_socket
+unix  3      [ ]         流        已连接     12231    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     14742    @/tmp/dbus-WZU1Iy5Ele
+unix  3      [ ]         流        已连接     16521    
+unix  3      [ ]         流        已连接     14657    
+unix  3      [ ]         流        已连接     13599    
+unix  3      [ ]         流        已连接     12262    
+unix  3      [ ]         流        已连接     12069    
+unix  3      [ ]         流        已连接     10634    
+unix  3      [ ]         流        已连接     16571    
+unix  3      [ ]         流        已连接     15482    @/dbus-vfs-daemon/socket-hKGxYhbV
+unix  3      [ ]         数据报                8512     
+unix  3      [ ]         流        已连接     20182    
+unix  3      [ ]         流        已连接     2675     
